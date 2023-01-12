@@ -7,6 +7,8 @@ name = "pypi"
 faker = "*"
 alembic = "*"
 sqlalchemy = "*"
+requests = "*"
+ipdb = "*"
 
 [dev-packages]
 
